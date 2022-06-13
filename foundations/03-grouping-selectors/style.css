@@ -1,0 +1,13 @@
+.h1{
+    background-color: #000000;
+    color: white;
+}
+
+.h2{
+    background-color: yellow;
+}
+
+.h1, .h2{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman',sans-serif;
+}
